@@ -2602,6 +2602,14 @@ a {
 .cid-sro4D4DNRj img {
   width: 100%;
 }
+.cid-srRAlRRLBl {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-srRAlRRLBl .mbr-text {
+  color: #000000;
+}
 .cid-srq7lnfwQf {
   padding-top: 2rem;
   padding-bottom: 0rem;
@@ -2681,22 +2689,6 @@ a {
 .cid-sroevDeZRD img {
   width: 100%;
 }
-.cid-sropwWduqd {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  background-color: #ffffff;
-}
-@media (max-width: 991px) {
-  .cid-sropwWduqd .image-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-sropwWduqd .row {
-  flex-direction: row-reverse;
-}
-.cid-sropwWduqd img {
-  width: 100%;
-}
 .cid-sroR1R2oIP {
   padding-top: 3rem;
   padding-bottom: 1rem;
@@ -2719,13 +2711,13 @@ a {
   width: 100%;
 }
 .cid-sroeStuYDU {
-  padding-top: 5rem;
-  padding-bottom: 2rem;
+  padding-top: 3rem;
+  padding-bottom: 1rem;
   background-color: #ffffff;
 }
 .cid-sroeA9OgVq {
-  padding-top: 2rem;
-  padding-bottom: 1rem;
+  padding-top: 1rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
 .cid-sroewNpe6g {
@@ -2900,10 +2892,13 @@ a {
 .cid-srpYjgJXkc img {
   width: 100%;
 }
-.cid-srq2vBXDUF {
+.cid-srRTpWQV52 {
   padding-top: 5rem;
   padding-bottom: 5rem;
   background-color: #ffffff;
+}
+.cid-srRTpWQV52 .mbr-text {
+  color: #000000;
 }
 .cid-srq2hHljtD {
   padding-top: 0rem;
@@ -2926,35 +2921,17 @@ a {
   padding-bottom: 5rem;
   background-color: #ffffff;
 }
-.cid-srpYsrFLjt {
-  padding-top: 0rem;
-  padding-bottom: 3rem;
-  background-color: #ffffff;
-}
-@media (max-width: 991px) {
-  .cid-srpYsrFLjt .image-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-srpYsrFLjt .row {
-  flex-direction: row-reverse;
-}
-.cid-srpYsrFLjt img {
-  width: 100%;
-}
-.cid-srpZgU1ReV {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #ffffff;
+.cid-srq2uiwG4H .mbr-text {
+  color: #000000;
 }
 .cid-srq0G3hEFZ {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
   background-color: #ffffff;
 }
 .cid-srojxC05h8 {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 3rem;
+  padding-bottom: 2rem;
   background-color: #ffffff;
 }
 @media (max-width: 991px) {
